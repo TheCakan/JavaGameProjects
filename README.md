@@ -12,8 +12,8 @@ The game is just automatic battle so you can't actually play.
 
 --- SECOND PROJECT ---
 
-To understand second project you can just easily open the pdf file that i uploaded "PPJ Project".
+To understand second project, you can just easily open the pdf file that i uploaded "PPJ Project".
 
-It's a game that you need to collect coins to finish but need to be careful about mines.
+It's a game that you need to collect coins to finish it, but be careful about mines.
 
-Map is random generator map so everytime you open the game the map will be different.
+Map is random generator map, so everytime you open the game the map will be different.
