@@ -2,18 +2,18 @@ Games that i've did using Java.
 
 --- FIRST PROJECT ---
 
-First project(Arena PPJJ27) is a battle game that you can fight with monsters in arena.
+First project(Arena PPJJ27) is a battle game which you can fight with monsters in an arena.
 
-There are 2 types of weapons 1 is normal and the other one is counter sword against monsters.
+There are two types of weapons 1 is normal and the other is counterhanded against monsters.
 
-Player can use potion to heal himself.
+Player can use potions to heal themselves.
 
-The game is just automatic battle so you can't actually play.
+The game is just an automatic battle so you can't actually play.
 
 --- SECOND PROJECT ---
 
-To understand second project, you can just easily open the pdf file that i uploaded "PPJ Project".
+To understand the second project, you can easily open the pdf file that I uploaded "PPJ Project".
 
-It's a game that you need to collect coins to finish it, but be careful about mines.
+It's a game which you need to collect coins to finish it, but be careful about mines.
 
-Map is random generator map, so everytime you open the game the map will be different.
+The map is a random generator map, so every time you open the game the map will be different.
