@@ -1,8 +1,8 @@
-Games that i've did using Java.
+Games that I've done using Java.
 
 --- FIRST PROJECT ---
 
-First project(Arena PPJJ27) is a battle game which you can fight with monsters in an arena.
+The first project(Arena PPJJ27) is a battle game which you can fight with monsters in an arena.
 
 There are two types of weapons 1 is normal and the other is counterhanded against monsters.
 
